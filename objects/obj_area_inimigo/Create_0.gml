@@ -1,0 +1,1 @@
+////area que o inimigo pode andar

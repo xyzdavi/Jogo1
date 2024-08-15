@@ -1,0 +1,1 @@
+////pai dos npc kkkkkkkkkkk

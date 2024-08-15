@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_fantasma_batalha",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fantasma_batalha",
+  "parent":{
+    "name":"Fantasma",
+    "path":"folders/Scripts/Fantasma.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+estado = scr_fantasma_mov
